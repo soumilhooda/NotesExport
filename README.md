@@ -4,9 +4,13 @@ Simple scripts to quickly read notes and export them to .html files. Made as I l
 
 The javascript file lets you select n number of notes to be exported. The applescript selects all notes at once.
 
-To use the scripts make sure there are no unicode titles as `:` ans `/` will not be read properly.
+# Usage 
+
+To use the scripts make sure there are no unicode titles as `:` and `/` will not be read properly.
 
 To use the applescript, change `rootPath` to your preferred root.
+
+# Visuals
 
 Some attached screenshots for the JS App being run are.
 
